@@ -1,0 +1,7 @@
+README.md
+setup.py
+pyclear/__init__.py
+pyclear.egg-info/PKG-INFO
+pyclear.egg-info/SOURCES.txt
+pyclear.egg-info/dependency_links.txt
+pyclear.egg-info/top_level.txt
